@@ -140,8 +140,8 @@ namespace EasierSpecialOrders
                     data["Evelyn_Objective_0_Text"] = "";
                     data["Evelyn_Objective_1_Text"] = "Place 12 leeks in Evelyn's kitchen.";
 
-                    data["Gunther_Objective_0_Text"] = "";
-                    data["Gunther_Objective_1_Text"] = "Place 100 bones in the drop box at the museum counter.";
+                    data["Gunther_Objective_1_Text"] = "";
+                    data["Gunther_Objective_0_Text"] = "Place 100 bones in the drop box at the museum counter.";
                 }
 
                 if (this.config.EasierQiChallenges.ShipLessQiFruit == true)

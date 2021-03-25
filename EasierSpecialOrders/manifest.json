@@ -5,5 +5,5 @@
   "Version": "1.0.0",
   "UniqueID": "TheMightyAmondee.EasierSpecialOrders",
   "EntryDll": "EasierSpecialOrders.dll",
-  "UpdateKeys": []
+  "UpdateKeys": ["Nexus:8432"]
 }
