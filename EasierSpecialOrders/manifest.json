@@ -5,6 +5,6 @@
   "Version": "1.1.0-alpha.1",
   "UniqueID": "TheMightyAmondee.EasierSpecialOrders",
   "EntryDll": "EasierSpecialOrders.dll",
-  "MinimumApiVersion": "3.14.0",
+  "MinimumApiVersion": "4.0.0-alpha",
   "UpdateKeys": [ "Nexus:8342" ]
 }
